@@ -35,6 +35,7 @@ sass:
   source_dir: _sass
 
 #google_analytics: UA-code-here
+baidu_analytics: 19a2c6481a2af6a8601709cde33f4a62
 
 defaults:
   -
