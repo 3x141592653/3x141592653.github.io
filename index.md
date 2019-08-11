@@ -10,6 +10,13 @@ show_sidebar: false
 
 ## 技术
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
+### Java 基础
+
+* [Java 数据类型](/2019/07/24/Java-数据类型/)
+* [Java 类和接口](/2019/08/05/Java-类和接口/)
+
+## 金融
+
+## 旅游
 
 ## 其他
